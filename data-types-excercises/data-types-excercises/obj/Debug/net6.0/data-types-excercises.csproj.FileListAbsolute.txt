@@ -1,0 +1,15 @@
+/Users/naomirodriguez/Desktop/LaunchCode_Things/C#Practice/Chapter1_2/data-types-excercises/data-types-excercises/bin/Debug/net6.0/data-types-excercises
+/Users/naomirodriguez/Desktop/LaunchCode_Things/C#Practice/Chapter1_2/data-types-excercises/data-types-excercises/bin/Debug/net6.0/data-types-excercises.deps.json
+/Users/naomirodriguez/Desktop/LaunchCode_Things/C#Practice/Chapter1_2/data-types-excercises/data-types-excercises/bin/Debug/net6.0/data-types-excercises.runtimeconfig.json
+/Users/naomirodriguez/Desktop/LaunchCode_Things/C#Practice/Chapter1_2/data-types-excercises/data-types-excercises/bin/Debug/net6.0/data-types-excercises.dll
+/Users/naomirodriguez/Desktop/LaunchCode_Things/C#Practice/Chapter1_2/data-types-excercises/data-types-excercises/bin/Debug/net6.0/data-types-excercises.pdb
+/Users/naomirodriguez/Desktop/LaunchCode_Things/C#Practice/Chapter1_2/data-types-excercises/data-types-excercises/obj/Debug/net6.0/data-types-excercises.csproj.AssemblyReference.cache
+/Users/naomirodriguez/Desktop/LaunchCode_Things/C#Practice/Chapter1_2/data-types-excercises/data-types-excercises/obj/Debug/net6.0/data-types-excercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naomirodriguez/Desktop/LaunchCode_Things/C#Practice/Chapter1_2/data-types-excercises/data-types-excercises/obj/Debug/net6.0/data-types-excercises.AssemblyInfoInputs.cache
+/Users/naomirodriguez/Desktop/LaunchCode_Things/C#Practice/Chapter1_2/data-types-excercises/data-types-excercises/obj/Debug/net6.0/data-types-excercises.AssemblyInfo.cs
+/Users/naomirodriguez/Desktop/LaunchCode_Things/C#Practice/Chapter1_2/data-types-excercises/data-types-excercises/obj/Debug/net6.0/data-types-excercises.csproj.CoreCompileInputs.cache
+/Users/naomirodriguez/Desktop/LaunchCode_Things/C#Practice/Chapter1_2/data-types-excercises/data-types-excercises/obj/Debug/net6.0/data-types-excercises.dll
+/Users/naomirodriguez/Desktop/LaunchCode_Things/C#Practice/Chapter1_2/data-types-excercises/data-types-excercises/obj/Debug/net6.0/refint/data-types-excercises.dll
+/Users/naomirodriguez/Desktop/LaunchCode_Things/C#Practice/Chapter1_2/data-types-excercises/data-types-excercises/obj/Debug/net6.0/data-types-excercises.pdb
+/Users/naomirodriguez/Desktop/LaunchCode_Things/C#Practice/Chapter1_2/data-types-excercises/data-types-excercises/obj/Debug/net6.0/data-types-excercises.genruntimeconfig.cache
+/Users/naomirodriguez/Desktop/LaunchCode_Things/C#Practice/Chapter1_2/data-types-excercises/data-types-excercises/obj/Debug/net6.0/ref/data-types-excercises.dll
